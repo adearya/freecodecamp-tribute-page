@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
 
-<!-- tribute-page -->
+<!-- freecodecamp-tribute-page -->
 <br />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adearya/tribute-page/HEAD/raw/images/github_user_logo.jpeg" alt="Github User Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/adearya/freecodecamp-tribute-page/HEAD/raw/images/github_user_logo.jpeg" alt="Github User Logo" width="80" height="80">
 
 <h3 align="center">Tribute Page - By freeCodeCamp</h3>
     <p align="center">
@@ -38,7 +38,7 @@
 
 ## About The Project
 
-![App Screenshot](https://raw.githubusercontent.com/adearya/tribute-page/HEAD/raw/images/desktop_screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/adearya/freecodecamp-tribute-page/HEAD/raw/images/desktop_screenshot.png)
 
 <p align="center">
     This project was developed using TailwindCSS to ensure a modern, minimalist, and responsive layout. It is designed to present a biography, achievements, and images in a structured format while maintaining accessibility.
@@ -69,11 +69,11 @@
 
 Clone the repo
 ```sh
-git clone https://github.com/adearya/tribute-page.git
+git clone https://github.com/adearya/freecodecamp-tribute-page.git
 ```
 Change directory
 ```sh
-cd tribute-page/
+cd freecodecamp-tribute-page/
 ```
 <!-- add_installation -->
 
